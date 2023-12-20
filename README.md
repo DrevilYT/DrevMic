@@ -24,3 +24,6 @@ A customizable mic configurator to troll your friends!
 - Zero in-app purchases
 - Completely open-source
 - Lightweight/Good for low end devices
+
+## Requirements:
+- EzualizerAPO: https://drev.evils.in/drevmic/EqualizerAPO64-1.3.exe
