@@ -1,7 +1,15 @@
 ## DrevMic
 A customizable mic configurator to troll your friends!
 
-## This app works for:
+## This configurator only works on:
+- Windows 10
+- Windows 11
+- Windows 7
+- (does not work on Windows 8)
+- Linux (coming soon)
+- Mac (coming soon)
+
+## This configurator works for:
 - Dicord
 - Zoom
 - Skype
